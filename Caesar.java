@@ -1,4 +1,4 @@
-//Encrytion an Decrytion
+//Encrytion and Decrytion
 //61107959 Wathinee Saeaui
 
 import java.util.*;
